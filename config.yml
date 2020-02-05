@@ -1,0 +1,5 @@
+wordsDatabaseFilename: src/main/resources/sanitized_dictionary.txt
+logging:
+  level: INFO
+  loggers:
+    io.kostis.scrabblehelper: DEBUG
